@@ -54,6 +54,9 @@ const movieData = [
     genres: ['crime', 'period piece'],
     poster: 'the-trash-man'
   },
+  {
+
+  }
 ]
 
 export default movieData
